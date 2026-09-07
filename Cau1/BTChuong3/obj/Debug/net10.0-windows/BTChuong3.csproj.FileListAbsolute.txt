@@ -1,0 +1,16 @@
+D:\C#\Buoi2\BTChuong3\BTChuong3\bin\Debug\net10.0-windows\BTChuong3.exe
+D:\C#\Buoi2\BTChuong3\BTChuong3\bin\Debug\net10.0-windows\BTChuong3.deps.json
+D:\C#\Buoi2\BTChuong3\BTChuong3\bin\Debug\net10.0-windows\BTChuong3.runtimeconfig.json
+D:\C#\Buoi2\BTChuong3\BTChuong3\bin\Debug\net10.0-windows\BTChuong3.dll
+D:\C#\Buoi2\BTChuong3\BTChuong3\bin\Debug\net10.0-windows\BTChuong3.pdb
+D:\C#\Buoi2\BTChuong3\BTChuong3\obj\Debug\net10.0-windows\BTChuong3.Form1.resources
+D:\C#\Buoi2\BTChuong3\BTChuong3\obj\Debug\net10.0-windows\BTChuong3.csproj.GenerateResource.cache
+D:\C#\Buoi2\BTChuong3\BTChuong3\obj\Debug\net10.0-windows\BTChuong3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Buoi2\BTChuong3\BTChuong3\obj\Debug\net10.0-windows\BTChuong3.AssemblyInfoInputs.cache
+D:\C#\Buoi2\BTChuong3\BTChuong3\obj\Debug\net10.0-windows\BTChuong3.AssemblyInfo.cs
+D:\C#\Buoi2\BTChuong3\BTChuong3\obj\Debug\net10.0-windows\BTChuong3.csproj.CoreCompileInputs.cache
+D:\C#\Buoi2\BTChuong3\BTChuong3\obj\Debug\net10.0-windows\BTChuong3.dll
+D:\C#\Buoi2\BTChuong3\BTChuong3\obj\Debug\net10.0-windows\refint\BTChuong3.dll
+D:\C#\Buoi2\BTChuong3\BTChuong3\obj\Debug\net10.0-windows\BTChuong3.pdb
+D:\C#\Buoi2\BTChuong3\BTChuong3\obj\Debug\net10.0-windows\BTChuong3.genruntimeconfig.cache
+D:\C#\Buoi2\BTChuong3\BTChuong3\obj\Debug\net10.0-windows\ref\BTChuong3.dll
