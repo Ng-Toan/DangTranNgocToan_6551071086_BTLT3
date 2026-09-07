@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\Cau4\\",
+  "WorkspaceRootPath": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\DangTranNgocToan_6551071086_BTLT3\\Cau4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87E8A522-8C01-4D5F-8D75-35AA4DA965E8}|Cau4\\Cau4.csproj|d:\\c#\\buoi2\\dangtranngoctoan_6551071086_btlt3\\cau4\\cau4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{87E8A522-8C01-4D5F-8D75-35AA4DA965E8}|Cau4\\Cau4.csproj|solutionrelative:cau4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DF23E038-D0AA-7183-98F9-8A317D308BA4}|Cau4\\Cau4.csproj|d:\\c#\\buoi2\\dangtranngoctoan_6551071086_btlt3\\dangtranngoctoan_6551071086_btlt3\\cau4\\cau4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF23E038-D0AA-7183-98F9-8A317D308BA4}|Cau4\\Cau4.csproj|solutionrelative:cau4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87E8A522-8C01-4D5F-8D75-35AA4DA965E8}|Cau4\\Cau4.csproj|d:\\c#\\buoi2\\dangtranngoctoan_6551071086_btlt3\\cau4\\cau4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87E8A522-8C01-4D5F-8D75-35AA4DA965E8}|Cau4\\Cau4.csproj|solutionrelative:cau4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF23E038-D0AA-7183-98F9-8A317D308BA4}|Cau4\\Cau4.csproj|d:\\c#\\buoi2\\dangtranngoctoan_6551071086_btlt3\\dangtranngoctoan_6551071086_btlt3\\cau4\\cau4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF23E038-D0AA-7183-98F9-8A317D308BA4}|Cau4\\Cau4.csproj|solutionrelative:cau4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\Cau4\\Cau4\\Form1.cs",
+              "DocumentMoniker": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\DangTranNgocToan_6551071086_BTLT3\\Cau4\\Cau4\\Form1.cs",
               "RelativeDocumentMoniker": "Cau4\\Form1.cs",
-              "ToolTip": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\Cau4\\Cau4\\Form1.cs",
+              "ToolTip": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\DangTranNgocToan_6551071086_BTLT3\\Cau4\\Cau4\\Form1.cs",
               "RelativeToolTip": "Cau4\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -41,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\Cau4\\Cau4\\Form1.cs",
+              "DocumentMoniker": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\DangTranNgocToan_6551071086_BTLT3\\Cau4\\Cau4\\Form1.cs",
               "RelativeDocumentMoniker": "Cau4\\Form1.cs",
-              "ToolTip": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\Cau4\\Cau4\\Form1.cs [Design]",
+              "ToolTip": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\DangTranNgocToan_6551071086_BTLT3\\Cau4\\Cau4\\Form1.cs [Design]",
               "RelativeToolTip": "Cau4\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-07T03:19:55.619Z",

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C#\\Buoi2\\BTChuong3\\",
+  "WorkspaceRootPath": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\DangTranNgocToan_6551071086_BTLT3\\Cau1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0E11FA1-244C-8131-6650-402962C06985}|BTChuong3\\BTChuong3.csproj|d:\\c#\\buoi2\\btchuong3\\btchuong3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C0E11FA1-244C-8131-6650-402962C06985}|BTChuong3\\BTChuong3.csproj|d:\\c#\\buoi2\\dangtranngoctoan_6551071086_btlt3\\dangtranngoctoan_6551071086_btlt3\\cau1\\btchuong3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C0E11FA1-244C-8131-6650-402962C06985}|BTChuong3\\BTChuong3.csproj|solutionrelative:btchuong3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0E11FA1-244C-8131-6650-402962C06985}|BTChuong3\\BTChuong3.csproj|d:\\c#\\buoi2\\btchuong3\\btchuong3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0E11FA1-244C-8131-6650-402962C06985}|BTChuong3\\BTChuong3.csproj|d:\\c#\\buoi2\\dangtranngoctoan_6551071086_btlt3\\dangtranngoctoan_6551071086_btlt3\\cau1\\btchuong3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0E11FA1-244C-8131-6650-402962C06985}|BTChuong3\\BTChuong3.csproj|solutionrelative:btchuong3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\C#\\Buoi2\\BTChuong3\\BTChuong3\\Form1.cs",
+              "DocumentMoniker": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\DangTranNgocToan_6551071086_BTLT3\\Cau1\\BTChuong3\\Form1.cs",
               "RelativeDocumentMoniker": "BTChuong3\\Form1.cs",
-              "ToolTip": "D:\\C#\\Buoi2\\BTChuong3\\BTChuong3\\Form1.cs",
+              "ToolTip": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\DangTranNgocToan_6551071086_BTLT3\\Cau1\\BTChuong3\\Form1.cs",
               "RelativeToolTip": "BTChuong3\\Form1.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwCAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -41,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\C#\\Buoi2\\BTChuong3\\BTChuong3\\Form1.cs",
+              "DocumentMoniker": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\DangTranNgocToan_6551071086_BTLT3\\Cau1\\BTChuong3\\Form1.cs",
               "RelativeDocumentMoniker": "BTChuong3\\Form1.cs",
-              "ToolTip": "D:\\C#\\Buoi2\\BTChuong3\\BTChuong3\\Form1.cs [Design]",
+              "ToolTip": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\DangTranNgocToan_6551071086_BTLT3\\Cau1\\BTChuong3\\Form1.cs [Design]",
               "RelativeToolTip": "BTChuong3\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-07T01:53:16.482Z",

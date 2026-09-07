@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\Cau3\\",
+  "WorkspaceRootPath": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\DangTranNgocToan_6551071086_BTLT3\\Cau3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79EB6466-ABA4-4775-A274-8649AB2CEBED}|Cau3\\Cau3.csproj|d:\\c#\\buoi2\\dangtranngoctoan_6551071086_btlt3\\cau3\\cau3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{79EB6466-ABA4-4775-A274-8649AB2CEBED}|Cau3\\Cau3.csproj|solutionrelative:cau3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2846CB73-3AD7-AC4A-D831-A53D2786D21C}|Cau3\\Cau3.csproj|d:\\c#\\buoi2\\dangtranngoctoan_6551071086_btlt3\\dangtranngoctoan_6551071086_btlt3\\cau3\\cau3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2846CB73-3AD7-AC4A-D831-A53D2786D21C}|Cau3\\Cau3.csproj|solutionrelative:cau3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79EB6466-ABA4-4775-A274-8649AB2CEBED}|Cau3\\Cau3.csproj|d:\\c#\\buoi2\\dangtranngoctoan_6551071086_btlt3\\cau3\\cau3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79EB6466-ABA4-4775-A274-8649AB2CEBED}|Cau3\\Cau3.csproj|solutionrelative:cau3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2846CB73-3AD7-AC4A-D831-A53D2786D21C}|Cau3\\Cau3.csproj|d:\\c#\\buoi2\\dangtranngoctoan_6551071086_btlt3\\dangtranngoctoan_6551071086_btlt3\\cau3\\cau3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2846CB73-3AD7-AC4A-D831-A53D2786D21C}|Cau3\\Cau3.csproj|solutionrelative:cau3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79EB6466-ABA4-4775-A274-8649AB2CEBED}|Cau3\\Cau3.csproj|d:\\c#\\buoi2\\dangtranngoctoan_6551071086_btlt3\\cau3\\cau3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79EB6466-ABA4-4775-A274-8649AB2CEBED}|Cau3\\Cau3.csproj|solutionrelative:cau3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2846CB73-3AD7-AC4A-D831-A53D2786D21C}|Cau3\\Cau3.csproj|D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\DangTranNgocToan_6551071086_BTLT3\\Cau3\\cau3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2846CB73-3AD7-AC4A-D831-A53D2786D21C}|Cau3\\Cau3.csproj|solutionrelative:cau3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +30,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\Cau3\\Cau3\\Form1.Designer.cs",
+              "DocumentMoniker": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\DangTranNgocToan_6551071086_BTLT3\\Cau3\\Cau3\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Cau3\\Form1.Designer.cs",
-              "ToolTip": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\Cau3\\Cau3\\Form1.Designer.cs",
+              "ToolTip": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\DangTranNgocToan_6551071086_BTLT3\\Cau3\\Cau3\\Form1.Designer.cs",
               "RelativeToolTip": "Cau3\\Form1.Designer.cs",
               "ViewState": "AgIAAGwAAAAAAAAAAAD4v3sAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T03:09:06.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T03:09:06.909Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\Cau3\\Cau3\\Form1.cs",
+              "DocumentMoniker": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\DangTranNgocToan_6551071086_BTLT3\\Cau3\\Cau3\\Form1.cs",
               "RelativeDocumentMoniker": "Cau3\\Form1.cs",
-              "ToolTip": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\Cau3\\Cau3\\Form1.cs",
+              "ToolTip": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\DangTranNgocToan_6551071086_BTLT3\\Cau3\\Cau3\\Form1.cs",
               "RelativeToolTip": "Cau3\\Form1.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAYwBgAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-07T03:07:11.115Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\Cau3\\Cau3\\Form1.cs",
+              "DocumentMoniker": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\DangTranNgocToan_6551071086_BTLT3\\Cau3\\Cau3\\Form1.cs",
               "RelativeDocumentMoniker": "Cau3\\Form1.cs",
               "ToolTip": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\Cau3\\Cau3\\Form1.cs [Design]",
-              "RelativeToolTip": "Cau3\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\Cau3\\Cau3\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T03:04:03.591Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-09-07T03:04:03.591Z"
             }
           ]
         }

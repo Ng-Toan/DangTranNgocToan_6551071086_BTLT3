@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BTChuong3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00083167300ee692c74be8c030e3924649d26c86")]
 [assembly: System.Reflection.AssemblyProductAttribute("BTChuong3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BTChuong3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Buoi2\\BTChuong3\\BTChuong3\\BTChuong3.csproj": {}
+    "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\DangTranNgocToan_6551071086_BTLT3\\Cau1\\BTChuong3\\BTChuong3.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Buoi2\\BTChuong3\\BTChuong3\\BTChuong3.csproj": {
+    "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\DangTranNgocToan_6551071086_BTLT3\\Cau1\\BTChuong3\\BTChuong3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Buoi2\\BTChuong3\\BTChuong3\\BTChuong3.csproj",
+        "projectUniqueName": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\DangTranNgocToan_6551071086_BTLT3\\Cau1\\BTChuong3\\BTChuong3.csproj",
         "projectName": "BTChuong3",
-        "projectPath": "D:\\C#\\Buoi2\\BTChuong3\\BTChuong3\\BTChuong3.csproj",
+        "projectPath": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\DangTranNgocToan_6551071086_BTLT3\\Cau1\\BTChuong3\\BTChuong3.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Buoi2\\BTChuong3\\BTChuong3\\obj\\",
+        "outputPath": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\DangTranNgocToan_6551071086_BTLT3\\Cau1\\BTChuong3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

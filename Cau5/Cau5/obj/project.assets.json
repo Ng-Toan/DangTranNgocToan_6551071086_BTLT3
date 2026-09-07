@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\Cau5\\Cau5\\Cau5.csproj",
+      "projectUniqueName": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\DangTranNgocToan_6551071086_BTLT3\\Cau5\\Cau5\\Cau5.csproj",
       "projectName": "Cau5",
-      "projectPath": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\Cau5\\Cau5\\Cau5.csproj",
+      "projectPath": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\DangTranNgocToan_6551071086_BTLT3\\Cau5\\Cau5\\Cau5.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\Cau5\\Cau5\\obj\\",
+      "outputPath": "D:\\C#\\Buoi2\\DangTranNgocToan_6551071086_BTLT3\\DangTranNgocToan_6551071086_BTLT3\\Cau5\\Cau5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
